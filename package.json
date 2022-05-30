@@ -1,5 +1,5 @@
 {
-  "name": "server-status-check",
+  "name": "server-app-monit",
   "private": true,
   "version": "1.0.0",
   "scripts": {
